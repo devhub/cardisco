@@ -11,5 +11,4 @@ setup(name='cardisco',
       install_requires=[
           'html5lib',
           'httplib2',
-          'importlib',
       ])
